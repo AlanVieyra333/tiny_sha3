@@ -1,7 +1,7 @@
 # Makefile
 # 19-Nov-11 Markku-Juhani O. Saarinen <mjos@iki.fi>
 
-BINARY          = sha3test
+BINARY          = sha3
 OBJS     	= sha3.o main.o
 DIST            = tiny_sha3
 
